@@ -1,8 +1,11 @@
 # Drone-Project
 
+#-------------------------------------------------
+# The following program is made to rule the world
+# Run only if you dare
+#-------------------------------------------------
+print "Hello world!"
 
-
-#This is something I am adding to show Gyv
 # I am the best
 #               -Jeremy
 # 11.35-11.37 pm
